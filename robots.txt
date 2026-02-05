@@ -1,0 +1,11 @@
+# Trinetra Automated Crawler Policy
+# Sector: Modhera Archive
+# Classification: Restricted
+# Last Review: 2023-09-14
+
+User-agent: *
+Disallow: /dev/third_eye/
+
+# Note:
+# Restricted directories are protected
+# under Project Trinetra security policy.
